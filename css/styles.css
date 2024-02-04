@@ -88,10 +88,6 @@ table {
     border: 2px solid black;
 }
 
-.title.church {
-    color: aqua;
-}
-
 .church-box > h2 {
     color: blue;
     font-size: 25px;
@@ -99,6 +95,15 @@ table {
 
 .church-box > p {
     font-style: oblique;
+}
+
+.church-box_title {
+    font-size: 30px;
+    color: aqua;
+}
+
+.church-box_p {
+    font-size: 25px;
 }
 
 .pbk-box > h2 {
